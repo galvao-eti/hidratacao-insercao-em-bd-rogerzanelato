@@ -5,7 +5,7 @@
 
 
 # Configurando
-- O arquivo para que configura a conexão ao banco de dados se encontra em src/Roger/Dao/config.php
+- O arquivo contendo os dados para configuração da conexão ao banco de dados se encontra em src/Roger/Dao/config.php
 
 ```
 <?php
